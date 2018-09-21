@@ -1,0 +1,8 @@
+com/stackroute/buzzup/exceptions/UserNotFoundException.class
+com/stackroute/buzzup/service/UserProfileServiceImpl.class
+com/stackroute/userprofileservice/UserProfileServiceApplication.class
+com/stackroute/buzzup/controller/UserProfileController.class
+com/stackroute/buzzup/model/UserProfile.class
+com/stackroute/buzzup/exceptions/UserAlreadyExistsException.class
+com/stackroute/buzzup/repository/UserProfileRepository.class
+com/stackroute/buzzup/service/UserProfileService.class

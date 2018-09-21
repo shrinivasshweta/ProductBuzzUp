@@ -1,0 +1,8 @@
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/exceptions/UserAlreadyExistsException.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/repository/UserProfileRepository.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/exceptions/UserNotFoundException.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/service/UserProfileService.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/controller/UserProfileController.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/userprofileservice/UserProfileServiceApplication.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/service/UserProfileServiceImpl.java
+/home/shweta/BuzzUp/user-profile-service/src/main/java/com/stackroute/buzzup/model/UserProfile.java

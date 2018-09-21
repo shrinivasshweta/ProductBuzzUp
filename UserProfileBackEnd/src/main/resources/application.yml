@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/userProfiledatabase
+      username: shweta
+      password: Root@123
+      database: userProfiledatabase
+      port: 27017
+      host: localhost
+server:
+  port: 8081
